@@ -1,0 +1,11 @@
+[workspace]
+resolver = "2"
+members = [
+    "bindep",
+    "featuredep",
+    "incorporator",
+    "unrelated",
+    "check-host-target",
+    "check-diff-target",
+    "check-explicit-target",
+]
