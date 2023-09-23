@@ -14,4 +14,4 @@ cargo run -p check-explicit-target
 
 `check-diff-target` is only implemented for x64 Windows or Linux, and cannot be used with WSL1.
 
-`unrelated` is added just for more feature unification noise, so this repo can be used in the future.
+`unrelated` is added just for more feature unification noise, so this repo can be used to look at future changes.
